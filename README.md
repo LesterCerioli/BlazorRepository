@@ -10,3 +10,7 @@
 
 # Video 2.1-https://www.udemy.com/course/curso-blazor-essencial/learn/lecture/17573880#overview 
 
+# Blazor Documentation
+# Link: https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-5.0
+
+
