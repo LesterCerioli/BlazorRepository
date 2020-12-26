@@ -1,6 +1,6 @@
 # This repository has objetive as bring experience with web software development
-# using Blazor
-# each class brings referring code
+# using Blazor each class brings referring code
+
 
 
 
