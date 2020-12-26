@@ -1,0 +1,33 @@
+﻿@page "/"
+
+<h1>Ola, @name </h1>
+<h1>data e hora : @DateTime.Today</h1>
+@*exibir em minusculo *@
+<h1>Ola, @name.ToLower()</h1>
+<hr />
+@* exibir em maiusculo *@
+<h1>Ola, @name.ToUpper()</h1>
+<hr />
+<h1>Dia da Semana : @data </h1>
+<hr />
+<h1>@Saudacao(name)</h1>
+<hr />
+<h1> 2+2 = @(2+2)</h1>
+<hr />
+<button @onclick="@(()=> Console.WriteLine("I was clicked"))">Click here</button>
+
+
+@code {
+    string name = "Lucas Tecnologia Services";
+    private string data = DateTime.Now.DayOfWeek.ToString();
+    private string Saudacao(string name)
+    {
+        var message = "Welcome" + name.ToUpper();
+        return message;
+    }
+
+    private void TreatClickButtom()
+    {
+        Console.WriteLine("I was clicked");
+    }
+}
