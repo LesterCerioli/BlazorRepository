@@ -1,0 +1,28 @@
+﻿@page "/"
+
+<h1>Hello, world!</h1>
+<h1> 20 + 20 = @Calculator.Some(20, 20)</h1>
+<h1> 40 - 10 = @Calculator.Subtract(40, 10)</h1>
+<h1> 30 * 20 = @Calculator.Multiply(30, 20)</h1>
+
+<h2>Pizza</h2>
+<div>
+    <h2 Pizza: @Pizza.ProductName></h2>
+    <h2>Register date: @Pizza.RegisterDate.ToString("yyyy mm dd")</h2>
+</div>
+
+<SurveyPrompt Title="How is Blazor working for you?" />
+
+@code{
+    public Product Pizza { get { return GetProduct(); } }
+
+    private Product GetProduct()
+    {
+        return new Product()
+        {
+            ProductName = "Umbrella",
+            RegisterDate = new DateTime(2020, 4, 4)
+        };
+
+    }
+}

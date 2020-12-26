@@ -1,0 +1,12 @@
+E:\Users\leste\source\Reppos\Repositories\GitHub\BlazorRepository\Video2-2\Class22\Class22\Shared\bin\Debug\net5.0\Class22.Shared.deps.json
+E:\Users\leste\source\Reppos\Repositories\GitHub\BlazorRepository\Video2-2\Class22\Class22\Shared\bin\Debug\net5.0\Class22.Shared.dll
+E:\Users\leste\source\Reppos\Repositories\GitHub\BlazorRepository\Video2-2\Class22\Class22\Shared\bin\Debug\net5.0\ref\Class22.Shared.dll
+E:\Users\leste\source\Reppos\Repositories\GitHub\BlazorRepository\Video2-2\Class22\Class22\Shared\bin\Debug\net5.0\Class22.Shared.pdb
+E:\Users\leste\source\Reppos\Repositories\GitHub\BlazorRepository\Video2-2\Class22\Class22\Shared\obj\Debug\net5.0\Class22.Shared.csprojAssemblyReference.cache
+E:\Users\leste\source\Reppos\Repositories\GitHub\BlazorRepository\Video2-2\Class22\Class22\Shared\obj\Debug\net5.0\Class22.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\leste\source\Reppos\Repositories\GitHub\BlazorRepository\Video2-2\Class22\Class22\Shared\obj\Debug\net5.0\Class22.Shared.AssemblyInfoInputs.cache
+E:\Users\leste\source\Reppos\Repositories\GitHub\BlazorRepository\Video2-2\Class22\Class22\Shared\obj\Debug\net5.0\Class22.Shared.AssemblyInfo.cs
+E:\Users\leste\source\Reppos\Repositories\GitHub\BlazorRepository\Video2-2\Class22\Class22\Shared\obj\Debug\net5.0\Class22.Shared.csproj.CoreCompileInputs.cache
+E:\Users\leste\source\Reppos\Repositories\GitHub\BlazorRepository\Video2-2\Class22\Class22\Shared\obj\Debug\net5.0\Class22.Shared.dll
+E:\Users\leste\source\Reppos\Repositories\GitHub\BlazorRepository\Video2-2\Class22\Class22\Shared\obj\Debug\net5.0\ref\Class22.Shared.dll
+E:\Users\leste\source\Reppos\Repositories\GitHub\BlazorRepository\Video2-2\Class22\Class22\Shared\obj\Debug\net5.0\Class22.Shared.pdb

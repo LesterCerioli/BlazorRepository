@@ -1,0 +1,21 @@
+﻿@page "/counter"
+
+<h1>Counter</h1>
+
+<p>Current count: @currentCount</p>
+
+<p>Current count: @currentCount</p>
+<h1> 20 + 20 = @Calculator.Some(20, 20)</h1>
+<h1> 40 - 10 = @Calculator.Subtract(40, 10)</h1>
+<h1> 30 * 20 = @Calculator.Multiply(30, 20)</h1>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+@code {
+    private int currentCount = 0;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+}
