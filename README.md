@@ -1,6 +1,6 @@
-#This repository has objetive as bring experience with web software development
-#using Blazor
-#each class brings referring code
+# This repository has objetive as bring experience with web software development
+# using Blazor
+# each class brings referring code
 
 
 
@@ -8,5 +8,5 @@
 # cada aula traz código referente ao Curso do Macoratti de Blazor
 # Publicarei semanalmente o código que stou escrevendo 
 
-#Video 2.1-https://www.udemy.com/course/curso-blazor-essencial/learn/lecture/17573880#overview 
+# Video 2.1-https://www.udemy.com/course/curso-blazor-essencial/learn/lecture/17573880#overview 
 
